@@ -26,7 +26,7 @@ OguryTestAdCertification
 </ClickThrough>
 </VideoClicks>
 <MediaFiles>
-<MediaFile type="video/mp4" delivery="progressive" width="608" height="1080" bitrate="720">
+<MediaFile type="video/mp4" delivery="progressive" width="1080" height="608" bitrate="720">
 <![CDATA[ https://medias.presage.io/medias/videos/bb9964bd-9187-4867-83b2-7688e9de2dd3.mp4-transcoded/offline.mp4 ]]>
 </MediaFile>
 </MediaFiles>
