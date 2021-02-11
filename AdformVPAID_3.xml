@@ -1,0 +1,103 @@
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0" xsi:noNamespaceSchemaLocation="vast.xsd">
+<link type="text/css" rel="stylesheet" id="dark-mode-custom-link"/>
+<link type="text/css" rel="stylesheet" id="dark-mode-general-link"/>
+<style lang="en" type="text/css" id="dark-mode-custom-style"/>
+<style lang="en" type="text/css" id="dark-mode-native-style"/>
+<Ad id="f9c83734-467b-4711-936d-83e5d374778c">
+<InLine>
+<AdSystem version="25">Adform</AdSystem>
+<AdTitle>ONCE_VAST_Rasca-Multiplicador_1Ola_0121_PVideo</AdTitle>
+<Impression id="adform">
+<![CDATA[ https://track.adform.net/videoad/impr/?bn=43571240;rotseqno=1;smid=0;1x1inv=1;srctype=3;unloadid=4713800945445545870;idata=YCA5vuAF1pEA3N6IM3JwsaxEZRMka0-7nNximbEdRMWqhvEsEnv_wX4vvDqPqNF2WGOEoeG3wbY1;ord=639401 ]]>
+</Impression>
+<Creatives>
+<Creative id="000001" sequence="1" AdID="f9c83734-467b-4711-936d-83e5d374778c">
+<Linear>
+<Duration>00:00:10</Duration>
+<TrackingEvents>
+<Tracking event="creativeView">
+<![CDATA[ https://track.adform.net/videoad/event/?bn=43571240&event=40&time=0&banner=43285631&imprid=4713800945445545870&rnd=639401&icid=7977484732200767782&icidt=637486332716077477&eData=oGmOymEeUFMDUunq7pSnUIWsuk28wKG6YaJU2uM20Nl95AuFiN5JhMZ0c5mOwPPUgY6QuZFwYR4DvP-67D9Y4w2& ]]>
+</Tracking>
+<Tracking event="start">
+<![CDATA[ https://track.adform.net/videoad/event/?bn=43571240&event=25&time=0&banner=43285631&imprid=4713800945445545870&rnd=639401&icid=7977484732200767782&icidt=637486332716077477&eData=oGmOymEeUFMDUunq7pSnUIWsuk28wKG6YaJU2uM20Nl95AuFiN5JhMZ0c5mOwPPUgY6QuZFwYR4DvP-67D9Y4w2& ]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[ https://track.adform.net/videoad/event/?bn=43571240&event=26&time=0&banner=43285631&imprid=4713800945445545870&rnd=639401&icid=7977484732200767782&icidt=637486332716077477&eData=oGmOymEeUFMDUunq7pSnUIWsuk28wKG6YaJU2uM20Nl95AuFiN5JhMZ0c5mOwPPUgY6QuZFwYR4DvP-67D9Y4w2& ]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[ https://track.adform.net/videoad/event/?bn=43571240&event=27&time=0&banner=43285631&imprid=4713800945445545870&rnd=639401&icid=7977484732200767782&icidt=637486332716077477&eData=oGmOymEeUFMDUunq7pSnUIWsuk28wKG6YaJU2uM20Nl95AuFiN5JhMZ0c5mOwPPUgY6QuZFwYR4DvP-67D9Y4w2& ]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[ https://track.adform.net/videoad/event/?bn=43571240&event=28&time=0&banner=43285631&imprid=4713800945445545870&rnd=639401&icid=7977484732200767782&icidt=637486332716077477&eData=oGmOymEeUFMDUunq7pSnUIWsuk28wKG6YaJU2uM20Nl95AuFiN5JhMZ0c5mOwPPUgY6QuZFwYR4DvP-67D9Y4w2& ]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[ https://track.adform.net/videoad/event/?bn=43571240&event=29&time=0&banner=43285631&imprid=4713800945445545870&rnd=639401&icid=7977484732200767782&icidt=637486332716077477&eData=oGmOymEeUFMDUunq7pSnUIWsuk28wKG6YaJU2uM20Nl95AuFiN5JhMZ0c5mOwPPUgY6QuZFwYR4DvP-67D9Y4w2& ]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[ https://track.adform.net/videoad/event/?bn=43571240&event=34&time=0&banner=43285631&imprid=4713800945445545870&rnd=639401&icid=7977484732200767782&icidt=637486332716077477&eData=oGmOymEeUFMDUunq7pSnUIWsuk28wKG6YaJU2uM20Nl95AuFiN5JhMZ0c5mOwPPUgY6QuZFwYR4DvP-67D9Y4w2& ]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[ https://track.adform.net/videoad/event/?bn=43571240&event=33&time=0&banner=43285631&imprid=4713800945445545870&rnd=639401&icid=7977484732200767782&icidt=637486332716077477&eData=oGmOymEeUFMDUunq7pSnUIWsuk28wKG6YaJU2uM20Nl95AuFiN5JhMZ0c5mOwPPUgY6QuZFwYR4DvP-67D9Y4w2& ]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[ https://track.adform.net/videoad/event/?bn=43571240&event=31&time=0&banner=43285631&imprid=4713800945445545870&rnd=639401&icid=7977484732200767782&icidt=637486332716077477&eData=oGmOymEeUFMDUunq7pSnUIWsuk28wKG6YaJU2uM20Nl95AuFiN5JhMZ0c5mOwPPUgY6QuZFwYR4DvP-67D9Y4w2& ]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[ https://track.adform.net/videoad/event/?bn=43571240&event=37&time=0&banner=43285631&imprid=4713800945445545870&rnd=639401&icid=7977484732200767782&icidt=637486332716077477&eData=oGmOymEeUFMDUunq7pSnUIWsuk28wKG6YaJU2uM20Nl95AuFiN5JhMZ0c5mOwPPUgY6QuZFwYR4DvP-67D9Y4w2& ]]>
+</Tracking>
+<Tracking event="fullscreen">
+<![CDATA[ https://track.adform.net/videoad/event/?bn=43571240&event=35&time=0&banner=43285631&imprid=4713800945445545870&rnd=639401&icid=7977484732200767782&icidt=637486332716077477&eData=oGmOymEeUFMDUunq7pSnUIWsuk28wKG6YaJU2uM20Nl95AuFiN5JhMZ0c5mOwPPUgY6QuZFwYR4DvP-67D9Y4w2& ]]>
+</Tracking>
+<Tracking event="rewind">
+<![CDATA[ https://track.adform.net/videoad/event/?bn=43571240&event=38&time=0&banner=43285631&imprid=4713800945445545870&rnd=639401&icid=7977484732200767782&icidt=637486332716077477&eData=oGmOymEeUFMDUunq7pSnUIWsuk28wKG6YaJU2uM20Nl95AuFiN5JhMZ0c5mOwPPUgY6QuZFwYR4DvP-67D9Y4w2& ]]>
+</Tracking>
+<Tracking event="close">
+<![CDATA[ https://track.adform.net/videoad/event/?bn=43571240&event=23&time=0&banner=43285631&imprid=4713800945445545870&rnd=639401&icid=7977484732200767782&icidt=637486332716077477&eData=oGmOymEeUFMDUunq7pSnUIWsuk28wKG6YaJU2uM20Nl95AuFiN5JhMZ0c5mOwPPUgY6QuZFwYR4DvP-67D9Y4w2& ]]>
+</Tracking>
+</TrackingEvents>
+<AdParameters>
+<![CDATA[ {"utils":{"bn":"43571240","rotseq
+":"1","cookieID":"7977484732200767782","smid":"0","unloadID":"4713800945445545870","height":360,"width":640,"pm":"2270597","visibilityArea":"[50]","visibilityTime":"[2]","ms":"2791499","ban":"43285631","serverTime":"1613036471607","sendUnloadData":"1","ufcEnabled":"0","isEventsEnabled":"1","rtbInventorySourceId":"0","rtbReqId":"0","bnpl":"7231754","adfUnlTest":"0","uData":"_oVahoLk-USsRGUTJGtPu5zcYpmxHUTFqobxLBJ7_8F-L7w6j6jRdlhjhKHht8G20","eData":"oGmOymEeUFMDUunq7pSnUIWsuk28wKG6YaJU2uM20Nl95AuFiN5JhMZ0c5mOwPPUgY6QuZFwYR4DvP-67D9Y4w2","noVPAIDjs":},"shost":"https://s1.adform.net","host":"https://track.adform.net","cdnHost":"https://s1.adform.net","maintainAspectRatio":true,"scalable":true} ]]>
+</AdParameters>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[ https://track.adform.net/videoad/c/?bn=43571240;cdata=izX2_fUneKge0XYsf459rSXr-iozZFGYhrXz2IaSmbaygF8W-7oSxbw6vzNX8wjJljci4tIIP59ufeAafUjDAsN4iOtIBxgX0;C=1; ]]>
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile delivery="progressive" type="video/mp4" bitrate="751" width="640" height="360" scalable="true" maintainAspectRatio="true">
+<![CDATA[ https://s1.adform.net/Banners/Elements/Files/2056267/9159039.mp4?bv=0&ADFAssetID=9159039 ]]>
+</MediaFile>
+<MediaFile delivery="progressive" type="video/webm" bitrate="666" width="640" height="360" scalable="true" maintainAspectRatio="true">
+<![CDATA[ https://s1.adform.net/Banners/Elements/Files/2056267/9159031.webm?bv=0&ADFAssetID=9159031 ]]>
+</MediaFile>
+<MediaFile delivery="progressive" type="video/ogg" bitrate="792" width="640" height="360" scalable="true" maintainAspectRatio="true">
+<![CDATA[ https://s1.adform.net/Banners/Elements/Files/2056267/9159038.ogv?bv=0&ADFAssetID=9159038 ]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+<Extensions>
+<Extension type="adc">
+<Extension>2056267</Extension>
+</Extension>
+<Extension type="cpid">
+<Extension>2270597</Extension>
+</Extension>
+<Extension type="site">
+<Extension>1753321</Extension>
+</Extension>
+<Extension type="place">
+<Extension>7231754</Extension>
+</Extension>
+<Extension type="size">
+<Extension>640x360</Extension>
+</Extension>
+<Extension type="tm">
+<Extension>68147</Extension>
+</Extension>
+</Extensions>
+</InLine>
+</Ad>
+</VAST>
