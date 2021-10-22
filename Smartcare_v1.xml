@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<VAST version="2.0"> <Ad id="357966"> <InLine> <AdSystem version="0.5">DataXu</AdSystem> 
+<AdTitle><![CDATA[Product Agnostic_06_V1.mp4]]></AdTitle> 
+<Description/> 
+<Error><![CDATA[https://[[[LS_PIXEL_SERVER_HOST]]]/e.gif?vastec=%5BERRORCODE%5D&asseturi=%5BASSETURI%5D&t=0&ei=[[[EXCHANGEID]]]&euid=[[[EXCHANGEUSERID]]]&ccw=[[[CONTENTCATEGORIESANDWEIGHTS]]]&reqid=[[[REQUESTID]]]&slotid=[[[SLOTID]]]&fiu=[[[FLIGHTID]]]&ciu=[[[CREATIVEID]]]&epid=[[[EXCHANGEPUBLISHERID]]]&refurl=[[[REFERERURL]]]&s=[[[PAGEURL]]]&bp=[[[BIDPRICE_CPI_MICRO]]]&wp_exchange=[[[EXCHANGEWINNINGPRICEMACRO]]]&rtbhost=[[[RTS_LOAD_BALANCER_HOST]]]&rts=0&btid=[[[BIDTRACKINGID]]]&dv=[[[DEVICE_VENDOR]]]&dm=[[[DEVICE_MODEL]]]&dc=[[[DEVICE_CARRIER]]]&os=[[[OPERATING_SYSTEM]]]&scres=[[[SCREEN_RESOLUTION]]]&gen=[[[GENDER]]]&age=[[[AGE]]]&zc=[[[ZIP_CODE]]]&pis=[[[PRIVATE_INVENTORY_SOURCE]]]&pip=[[[PRIVATE_INVENTORY_POOL]]]&esid=[[[EXCHANGESITEID]]]&rnd=[[[RAND_LONG]]]&ac=[[[AUDIENCE_COST]]]&psid=[[[PRIVATE_SEAT_ID]]]&ecid=[[[EXCHANGE_CAMPAIGN_ID]]]&ci=[[[CAMPAIGNID]]]&ct=[[[CONNECTION_TYPE]]]&mi=[[[MOBILE_INVENTORY_TYPE]]]&ean=[[[EXCHANGEAPPNAME]]]&v=[[[VISIBILITY]]]&geo=[[[GEODATA]]]&l=[[[LANGUAGES]]]&c=[[[COUNTRY]]]&r=[[[REGION]]]&m=[[[METRO_CODE]]]&pc=[[[POSTAL_CODE]]][[[ADDITIONAL_PARAMS]]]]]></Error> 
+<Impression id="ls"><![CDATA[https://[[[LS_PIXEL_SERVER_HOST]]]/a.gif?t=0&ei=[[[EXCHANGEID]]]&euid=[[[EXCHANGEUSERID]]]&ccw=[[[CONTENTCATEGORIESANDWEIGHTS]]]&reqid=[[[REQUESTID]]]&slotid=[[[SLOTID]]]&fiu=[[[FLIGHTID]]]&ciu=[[[CREATIVEID]]]&epid=[[[EXCHANGEPUBLISHERID]]]&refurl=[[[REFERERURL]]]&s=[[[PAGEURL]]]&bp=[[[BIDPRICE_CPI_MICRO]]]&wp_exchange=[[[EXCHANGEWINNINGPRICEMACRO]]]&rtbhost=[[[RTS_LOAD_BALANCER_HOST]]]&rts=1&btid=[[[BIDTRACKINGID]]]&dv=[[[DEVICE_VENDOR]]]&dm=[[[DEVICE_MODEL]]]&dc=[[[DEVICE_CARRIER]]]&os=[[[OPERATING_SYSTEM]]]&scres=[[[SCREEN_RESOLUTION]]]&gen=[[[GENDER]]]&age=[[[AGE]]]&zc=[[[ZIP_CODE]]]&pis=[[[PRIVATE_INVENTORY_SOURCE]]]&pip=[[[PRIVATE_INVENTORY_POOL]]]&esid=[[[EXCHANGESITEID]]]&rnd=[[[RAND_LONG]]]&ac=[[[AUDIENCE_COST]]]&psid=[[[PRIVATE_SEAT_ID]]]&ecid=[[[EXCHANGE_CAMPAIGN_ID]]]&ci=[[[CAMPAIGNID]]]&ct=[[[CONNECTION_TYPE]]]&mi=[[[MOBILE_INVENTORY_TYPE]]]&ean=[[[EXCHANGEAPPNAME]]]&v=[[[VISIBILITY]]]&geo=[[[GEODATA]]]&l=[[[LANGUAGES]]]&c=[[[COUNTRY]]]&r=[[[REGION]]]&m=[[[METRO_CODE]]]&pc=[[[POSTAL_CODE]]][[[ADDITIONAL_PARAMS]]]]]></Impression> 
+<Impression id="dv"><![CDATA[https://[[[DV_DOMAINPATH]]]?ctx=1043655&cmp=2350289&sid=dataxu&plc=23502892&advid=2026610&adsrv=89&btreg=&btadsrv=&tagtype=&dvtagver=6.1.src&DVP_PP_REP=1&DVP_IQM_ID=17&DVPX_PP_IMP_ID=[[[BIDTRACKINGID]]]&DVP_PP_PRICE_PAID=[[[EXCHANGEWINNINGPRICEMACRO]]]&DVP_DV_TT=2&DVP_DV_CT=2&DVP_DX_1=[[[ADVERTISERID]]]&DVP_DX_2=[[[CAMPAIGNID]]]&DVP_DX_3=[[[FLIGHTID]]]&DVP_DX_4=[[[CREATIVEID]]]&DVP_DX_5=[[[EXCHANGEID]]]&DVP_DX_6=[[[EXCHANGEPUBLISHERID]]]&DVP_DX_7=[[[EXCHANGESITEID]]]&DVP_DX_8=[[[DX]]]&turl=[[[SITE_URL]]]&DVP_PP_BUNDLE_ID=[[[APP_BUNDLE]]]&DVP_PP_APP_NAME=[[[EXCHANGEAPPNAME]]]&dup=[[[BIDTRACKINGID]]]]]></Impression> 
+<Creatives> 
+	<Creative sequence="1" id="dxui_new_creative"> 
+		<Linear> <Duration>00:00:06</Duration> 
+		<TrackingEvents> 
+			<Tracking event="start"><![CDATA[https://[[[LS_PIXEL_SERVER_HOST]]]/v.gif?btid=[[[BIDTRACKINGID]]]&ev=start]]></Tracking> 
+			<Tracking event="firstQuartile"><![CDATA[https://[[[LS_PIXEL_SERVER_HOST]]]/v.gif?btid=[[[BIDTRACKINGID]]]&ev=firstQuartile]]></Tracking> 
+			<Tracking event="midpoint"><![CDATA[https://[[[LS_PIXEL_SERVER_HOST]]]/v.gif?btid=[[[BIDTRACKINGID]]]&ev=midpoint]]></Tracking> 
+			<Tracking event="thirdQuartile"><![CDATA[https://[[[LS_PIXEL_SERVER_HOST]]]/v.gif?btid=[[[BIDTRACKINGID]]]&ev=thirdQuartile]]></Tracking> <Tracking event="complete"><![CDATA[https://[[[LS_PIXEL_SERVER_HOST]]]/v.gif?btid=[[[BIDTRACKINGID]]]&ev=complete]]></Tracking></TrackingEvents> 
+			<VideoClicks> 
+				<ClickThrough><![CDATA[https://[[[LS_PIXEL_SERVER_HOST]]]/a.gif?t=1&ei=[[[EXCHANGEID]]]&euid=[[[EXCHANGEUSERID]]]&ccw=[[[CONTENTCATEGORIESANDWEIGHTS]]]&reqid=[[[REQUESTID]]]&slotid=[[[SLOTID]]]&fiu=[[[FLIGHTID]]]&ciu=[[[CREATIVEID]]]&epid=[[[EXCHANGEPUBLISHERID]]]&refurl=[[[REFERERURL]]]&s=[[[PAGEURL]]]&bp=[[[BIDPRICE_CPI_MICRO]]]&btid=[[[BIDTRACKINGID]]]&dv=[[[DEVICE_VENDOR]]]&dm=[[[DEVICE_MODEL]]]&dc=[[[DEVICE_CARRIER]]]&os=[[[OPERATING_SYSTEM]]]&scres=[[[SCREEN_RESOLUTION]]]&gen=[[[GENDER]]]&age=[[[AGE]]]&zc=[[[ZIP_CODE]]]&pis=[[[PRIVATE_INVENTORY_SOURCE]]]&pip=[[[PRIVATE_INVENTORY_POOL]]]&esid=[[[EXCHANGESITEID]]]&rnd=[[[RAND_LONG]]]&ac=[[[AUDIENCE_COST]]]&psid=[[[PRIVATE_SEAT_ID]]]&ecid=[[[EXCHANGE_CAMPAIGN_ID]]]&ci=[[[CAMPAIGNID]]]&ct=[[[CONNECTION_TYPE]]]&mi=[[[MOBILE_INVENTORY_TYPE]]]&ean=[[[EXCHANGEAPPNAME]]]&v=[[[VISIBILITY]]]&geo=[[[GEODATA]]]&l=[[[LANGUAGES]]]&c=[[[COUNTRY]]]&r=[[[REGION]]]&m=[[[METRO_CODE]]]&pc=[[[POSTAL_CODE]]][[[ADDITIONAL_PARAMS]]]&rurl=https%3A%2F%2Fwww.brighthousefinancial.com%2Fproducts%2F%3Fcid%3Dvideo_video_SSAO_roku-consumer-patvc15a_na]]></ClickThrough>
+			</VideoClicks> 
+				<MediaFiles> 
+					<MediaFile delivery="progressive" bitrate="400" width="640" height="360" type="video/mp4"><![CDATA[https://ads.w55c.net/t/v/XassetLithA2Pf_640_360_400Kbps_23_97Fps_m.mp4]]></MediaFile> 
+					<MediaFile delivery="progressive" bitrate="1200" width="960" height="540" type="video/mp4"><![CDATA[https://ads.w55c.net/t/v/XassetLithA2Pf_960_540_1200Kbps_23_97Fps.mp4]]></MediaFile> 
+					<MediaFile delivery="progressive" bitrate="1000" width="1024" height="576" type="video/mp4"><![CDATA[https://ads.w55c.net/t/v/XassetLithA2Pf_1024_576_1000Kbps_23_97Fps.mp4]]></MediaFile> 
+					<MediaFile delivery="progressive" bitrate="1200" width="1280" height="720" type="video/mp4"><![CDATA[https://ads.w55c.net/t/v/XassetLithA2Pf_1280_720_1200Kbps_23_97Fps.mp4]]></MediaFile> 
+					<MediaFile delivery="progressive" bitrate="2000" width="1280" height="720" type="video/mp4"><![CDATA[https://ads.w55c.net/t/v/XassetLithA2Pf_1280_720_2000Kbps_23_97Fps.mp4]]></MediaFile> 
+					<MediaFile delivery="progressive" bitrate="4000" width="1280" height="720" type="video/mp4"><![CDATA[https://ads.w55c.net/t/v/XassetLithA2Pf_1280_720_4000Kbps_23_97Fps.mp4]]></MediaFile> 
+					<MediaFile delivery="progressive" bitrate="1200" width="1920" height="1080" type="video/mp4"><![CDATA[https://ads.w55c.net/t/v/assetLithA2Pf_1920_1080_1200Kbps_23_97Fps.mp4]]></MediaFile> 
+					<MediaFile delivery="progressive" bitrate="3000" width="1920" height="1080" type="video/mp4"><![CDATA[https://ads.w55c.net/t/v/assetLithA2Pf_1920_1080_3000Kbps_23_97Fps.mp4]]></MediaFile> 
+					<MediaFile delivery="progressive" bitrate="4000" width="1920" height="1080" type="video/mp4"><![CDATA[https://ads.w55c.net/t/v/assetLithA2Pf_1920_1080_4000Kbps_23_97Fps.mp4]]></MediaFile> 
+					<MediaFile delivery="progressive" bitrate="6000" width="1920" height="1080" type="video/mp4"><![CDATA[https://ads.w55c.net/t/v/assetLithA2Pf_1920_1080_6000Kbps_23_97Fps.mp4]]></MediaFile> 
+				</MediaFiles> 
+			</Linear> 
+		</Creative> 
+	</Creatives> 
+	<Extensions> 
+		<Extension>[[[RTS_EXTENSIONS]]]</Extension> 
+	</Extensions> 
+</InLine> 
+</Ad> 
+</VAST>
