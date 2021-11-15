@@ -1,0 +1,30 @@
+<VAST version="4.1">
+  <Ad>
+    <InLine>
+      <Impression><![CDATA[https://www.google.fr]]></Impression>
+      <Creatives>
+        <Creative>
+          <Linear>
+            <Duration><![CDATA[00:00:15]]></Duration>
+            <VideoClicks>
+              <ClickThrough><![CDATA[https://www.google.fr]]></ClickThrough>
+            </VideoClicks>
+            <TrackingEvents>
+              <Tracking event="start"><![CDATA[https://www.google.fr]]></Tracking>
+              <Tracking event="firstQuartile"><![CDATA[https://www.google.fr]]></Tracking>
+              <Tracking event="midpoint"><![CDATA[https://www.google.fr]]></Tracking>
+              <Tracking event="thirdQuartile"><![CDATA[https://www.google.fr]]></Tracking>
+              <Tracking event="complete"><![CDATA[https://www.google.fr]]></Tracking>
+            </TrackingEvents>
+            <MediaFiles>
+              <MediaFile delivery="progressive" bitrate="720" width="360" height="360" type="video/mp4"><![CDATA[https://medias.devc.cloud.ogury.io/medias/videos/a29033e0-bbdd-467f-ae31-84d0d3f0ca7b.mp4-transcoded/video_360p.mp4]]></MediaFile>
+              <MediaFile delivery="progressive" bitrate="1200" width="480" height="480" type="video/mp4"><![CDATA[https://medias.devc.cloud.ogury.io/medias/videos/a29033e0-bbdd-467f-ae31-84d0d3f0ca7b.mp4-transcoded/video_480p.mp4]]></MediaFile>
+              <MediaFile delivery="progressive" bitrate="2400" width="720" height="720" type="video/mp4"><![CDATA[https://medias.devc.cloud.ogury.io/medias/videos/a29033e0-bbdd-467f-ae31-84d0d3f0ca7b.mp4-transcoded/video_720p.mp4]]></MediaFile>
+              <MediaFile delivery="progressive" bitrate="5400" width="1080" height="1080" type="video/mp4"><![CDATA[https://medias.devc.cloud.ogury.io/medias/videos/a29033e0-bbdd-467f-ae31-84d0d3f0ca7b.mp4-transcoded/video_1080p.mp4]]></MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
