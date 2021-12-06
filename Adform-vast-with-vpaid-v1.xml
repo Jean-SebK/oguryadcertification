@@ -1,3 +1,4 @@
+<VAST xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="3.0" xsi:noNamespaceSchemaLocation="vast.xsd">
 <link type="text/css" rel="stylesheet" id="dark-mode-custom-link"/>
 <link type="text/css" rel="stylesheet" id="dark-mode-general-link"/>
 <style lang="en" type="text/css" id="dark-mode-custom-style"/>
