@@ -1,0 +1,110 @@
+<link type="text/css" rel="stylesheet" id="dark-mode-custom-link"/>
+<link type="text/css" rel="stylesheet" id="dark-mode-general-link"/>
+<style lang="en" type="text/css" id="dark-mode-custom-style"/>
+<style lang="en" type="text/css" id="dark-mode-native-style"/>
+<Ad id="df6f97ef-2a82-4453-8797-a4275a5ede0e">
+<InLine>
+<AdSystem version="13">Adform</AdSystem>
+<AdTitle>Monatstrailer_Dezember_30sec_16zu9</AdTitle>
+<Impression id="adform">
+<![CDATA[ https://a1.adform.net/videoad/impr/?bn=51656895;rotseqno=1;smid=0;1x1inv=1;srctype=3;unloadid=5537191170004602075;idata=_Z8i6x_Z0wCzTlAZl9FOrPEHH9FMkQEn7jY4ZuMEJaTrcj8yCM6I83sIE2YBQL7libefJffheCY1;ord=548082 ]]>
+</Impression>
+<Creatives>
+<Creative id="000001" sequence="1" AdID="df6f97ef-2a82-4453-8797-a4275a5ede0e">
+<Linear>
+<Duration>00:00:30</Duration>
+<TrackingEvents>
+<Tracking event="creativeView">
+<![CDATA[ https://a1.adform.net/videoad/event/?bn=51656895&event=40&time=0&banner=50068699&imprid=5537191170004602075&rnd=548082&icid=293835508037465138&icidt=637743872598906183&eData=T9Y-wBroVkQc4G8tJ-TQY2X_-JYZSXaNYaJU2uM20NlOKpudc6BGjk7rMQkFN2KzPMY7XKnzlsVo4kOyoBiwbg2& ]]>
+</Tracking>
+<Tracking event="start">
+<![CDATA[ https://a1.adform.net/videoad/event/?bn=51656895&event=25&time=0&banner=50068699&imprid=5537191170004602075&rnd=548082&icid=293835508037465138&icidt=637743872598906183&eData=T9Y-wBroVkQc4G8tJ-TQY2X_-JYZSXaNYaJU2uM20NlOKpudc6BGjk7rMQkFN2KzPMY7XKnzlsVo4kOyoBiwbg2& ]]>
+</Tracking>
+<Tracking event="firstQuartile">
+<![CDATA[ https://a1.adform.net/videoad/event/?bn=51656895&event=26&time=0&banner=50068699&imprid=5537191170004602075&rnd=548082&icid=293835508037465138&icidt=637743872598906183&eData=T9Y-wBroVkQc4G8tJ-TQY2X_-JYZSXaNYaJU2uM20NlOKpudc6BGjk7rMQkFN2KzPMY7XKnzlsVo4kOyoBiwbg2& ]]>
+</Tracking>
+<Tracking event="midpoint">
+<![CDATA[ https://a1.adform.net/videoad/event/?bn=51656895&event=27&time=0&banner=50068699&imprid=5537191170004602075&rnd=548082&icid=293835508037465138&icidt=637743872598906183&eData=T9Y-wBroVkQc4G8tJ-TQY2X_-JYZSXaNYaJU2uM20NlOKpudc6BGjk7rMQkFN2KzPMY7XKnzlsVo4kOyoBiwbg2& ]]>
+</Tracking>
+<Tracking event="thirdQuartile">
+<![CDATA[ https://a1.adform.net/videoad/event/?bn=51656895&event=28&time=0&banner=50068699&imprid=5537191170004602075&rnd=548082&icid=293835508037465138&icidt=637743872598906183&eData=T9Y-wBroVkQc4G8tJ-TQY2X_-JYZSXaNYaJU2uM20NlOKpudc6BGjk7rMQkFN2KzPMY7XKnzlsVo4kOyoBiwbg2& ]]>
+</Tracking>
+<Tracking event="complete">
+<![CDATA[ https://a1.adform.net/videoad/event/?bn=51656895&event=29&time=0&banner=50068699&imprid=5537191170004602075&rnd=548082&icid=293835508037465138&icidt=637743872598906183&eData=T9Y-wBroVkQc4G8tJ-TQY2X_-JYZSXaNYaJU2uM20NlOKpudc6BGjk7rMQkFN2KzPMY7XKnzlsVo4kOyoBiwbg2& ]]>
+</Tracking>
+<Tracking event="mute">
+<![CDATA[ https://a1.adform.net/videoad/event/?bn=51656895&event=34&time=0&banner=50068699&imprid=5537191170004602075&rnd=548082&icid=293835508037465138&icidt=637743872598906183&eData=T9Y-wBroVkQc4G8tJ-TQY2X_-JYZSXaNYaJU2uM20NlOKpudc6BGjk7rMQkFN2KzPMY7XKnzlsVo4kOyoBiwbg2& ]]>
+</Tracking>
+<Tracking event="unmute">
+<![CDATA[ https://a1.adform.net/videoad/event/?bn=51656895&event=33&time=0&banner=50068699&imprid=5537191170004602075&rnd=548082&icid=293835508037465138&icidt=637743872598906183&eData=T9Y-wBroVkQc4G8tJ-TQY2X_-JYZSXaNYaJU2uM20NlOKpudc6BGjk7rMQkFN2KzPMY7XKnzlsVo4kOyoBiwbg2& ]]>
+</Tracking>
+<Tracking event="pause">
+<![CDATA[ https://a1.adform.net/videoad/event/?bn=51656895&event=31&time=0&banner=50068699&imprid=5537191170004602075&rnd=548082&icid=293835508037465138&icidt=637743872598906183&eData=T9Y-wBroVkQc4G8tJ-TQY2X_-JYZSXaNYaJU2uM20NlOKpudc6BGjk7rMQkFN2KzPMY7XKnzlsVo4kOyoBiwbg2& ]]>
+</Tracking>
+<Tracking event="resume">
+<![CDATA[ https://a1.adform.net/videoad/event/?bn=51656895&event=37&time=0&banner=50068699&imprid=5537191170004602075&rnd=548082&icid=293835508037465138&icidt=637743872598906183&eData=T9Y-wBroVkQc4G8tJ-TQY2X_-JYZSXaNYaJU2uM20NlOKpudc6BGjk7rMQkFN2KzPMY7XKnzlsVo4kOyoBiwbg2& ]]>
+</Tracking>
+<Tracking event="fullscreen">
+<![CDATA[ https://a1.adform.net/videoad/event/?bn=51656895&event=35&time=0&banner=50068699&imprid=5537191170004602075&rnd=548082&icid=293835508037465138&icidt=637743872598906183&eData=T9Y-wBroVkQc4G8tJ-TQY2X_-JYZSXaNYaJU2uM20NlOKpudc6BGjk7rMQkFN2KzPMY7XKnzlsVo4kOyoBiwbg2& ]]>
+</Tracking>
+<Tracking event="rewind">
+<![CDATA[ https://a1.adform.net/videoad/event/?bn=51656895&event=38&time=0&banner=50068699&imprid=5537191170004602075&rnd=548082&icid=293835508037465138&icidt=637743872598906183&eData=T9Y-wBroVkQc4G8tJ-TQY2X_-JYZSXaNYaJU2uM20NlOKpudc6BGjk7rMQkFN2KzPMY7XKnzlsVo4kOyoBiwbg2& ]]>
+</Tracking>
+<Tracking event="close">
+<![CDATA[ https://a1.adform.net/videoad/event/?bn=51656895&event=23&time=0&banner=50068699&imprid=5537191170004602075&rnd=548082&icid=293835508037465138&icidt=637743872598906183&eData=T9Y-wBroVkQc4G8tJ-TQY2X_-JYZSXaNYaJU2uM20NlOKpudc6BGjk7rMQkFN2KzPMY7XKnzlsVo4kOyoBiwbg2& ]]>
+</Tracking>
+</TrackingEvents>
+<AdParameters>
+<![CDATA[ {"utils":{"bn":"51656895","rotseqno":"1","cookieID":"293835508037465138","smid":"0","unloadID":"5537191170004602075","height":1080,"width":1920,"pm":"2534329","visibilityArea":"[50,65,70]","visibilityTime":"[2,6,1]","ms":"3085372","ban":"50068699","serverTime":"1638790459890","sendUnloadData":"1","ufcEnabled":"0","isEventsEnabled":"1","rtbInventorySourceId":"0","rtbReqId":"0","bnpl":"8436577","adfUnlTest":"0","uData":"PTLHcqpWOdXxBx_RTJEBJ-42OGbjBCWk63I_MgjOiPN7CBNmAUC-5Ym3nyX34Xgm0","eData":"T9Y-wBroVkQc4G8tJ-TQY2X_-JYZSXaNYaJU2uM20NlOKpudc6BGjk7rMQkFN2KzPMY7XKnzlsVo4kOyoBiwbg2"},"url":"https://s1.adform.net/banners/scripts/video/VPAIDVideoPlayer.js","shost":"https://s1.adform.net","host":"https://a1.adform.net","cdnHost":"https://s1.adform.net","maintainAspectRatio":false,"scalable":true,"clickTags":{"clickTAG":"https://a1.adform.net/videoad/c/?bn=51656895;cdata=tcfvSnRrgey82tBNGNWX7icQG7L9-xvwqc-uG9qOBS2PiIdnY-PHl04-BoNbnUX3b_rPzvIXrTneHw30nzTcE-FBboVeNKvP0;C=1;"},"videoSources":[{"id":1,"file":"/Banners/Elements/Files/2068254/10630024.mp4?bv=0&ADFAssetID=10630024","mime":"video/mp4","codecs":"avc1.64001E","isStreaming":false},{"id":2,"file":"/Banners/Elements/Files/2068254/10630031.mp4?bv=0&ADFAssetID=10630031","mime":"video/mp4","codecs":"avc1.640028","isStreaming":false},{"id":3,"file":"/Banners/Elements/Files/2068254/10630029.mp4?bv=0&ADFAssetID=10630029","mime":"video/mp4","codecs":"avc1.64001F","isStreaming":false},{"id":4,"file":"/Banners/Elements/Files/2068254/10630025.mp4?bv=0&ADFAssetID=10630025","mime":"video/mp4","codecs":"avc1.42E01E","isStreaming":false},{"id":5,"file":"/Banners/Elements/Files/2068254/10630028.mp4?bv=0&ADFAssetID=10630028","mime":"video/mp4","codecs":"avc1.64001E","isStreaming":false}]} ]]>
+</AdParameters>
+<VideoClicks>
+<ClickThrough>
+<![CDATA[ https://a1.adform.net/videoad/c/?bn=51656895;cdata=tcfvSnRrgey82tBNGNWX7icQG7L9-xvwqc-uG9qOBS2PiIdnY-PHl04-BoNbnUX3b_rPzvIXrTneHw30nzTcE-FBboVeNKvP0;C=1; ]]>
+</ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile delivery="progressive" type="application/javascript" width="1920" height="1080" scalable="true" maintainAspectRatio="true" apiFramework="VPAID">
+<![CDATA[ https://s1.adform.net/banners/scripts/video/VPAIDWrapper.min.js?cache=14 ]]>
+</MediaFile>
+<MediaFile delivery="progressive" type="video/mp4" bitrate="941" width="832" height="468" scalable="true" maintainAspectRatio="true">
+<![CDATA[ https://s1.adform.net/Banners/Elements/Files/2068254/10630024.mp4?bv=0&ADFAssetID=10630024 ]]>
+</MediaFile>
+<MediaFile delivery="progressive" type="video/mp4" bitrate="2124" width="1920" height="1080" scalable="true" maintainAspectRatio="true">
+<![CDATA[ https://s1.adform.net/Banners/Elements/Files/2068254/10630031.mp4?bv=0&ADFAssetID=10630031 ]]>
+</MediaFile>
+<MediaFile delivery="progressive" type="video/mp4" bitrate="1630" width="1280" height="720" scalable="true" maintainAspectRatio="true">
+<![CDATA[ https://s1.adform.net/Banners/Elements/Files/2068254/10630029.mp4?bv=0&ADFAssetID=10630029 ]]>
+</MediaFile>
+<MediaFile delivery="progressive" type="video/mp4" bitrate="742" width="640" height="360" scalable="true" maintainAspectRatio="true">
+<![CDATA[ https://s1.adform.net/Banners/Elements/Files/2068254/10630028.mp4?bv=0&ADFAssetID=10630028 ]]>
+</MediaFile>
+<MediaFile delivery="progressive" type="video/mp4" bitrate="438" width="416" height="234" scalable="true" maintainAspectRatio="true">
+<![CDATA[ https://s1.adform.net/Banners/Elements/Files/2068254/10630025.mp4?bv=0&ADFAssetID=10630025 ]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+<Extensions>
+<Extension type="adc">
+<Extension>2068254</Extension>
+</Extension>
+<Extension type="cpid">
+<Extension>2534329</Extension>
+</Extension>
+<Extension type="site">
+<Extension>1456735</Extension>
+</Extension>
+<Extension type="place">
+<Extension>8436577</Extension>
+</Extension>
+<Extension type="size">
+<Extension>1920x1080</Extension>
+</Extension>
+<Extension type="tm">
+<Extension>72895</Extension>
+</Extension>
+</Extensions>
+</InLine>
+</Ad>
+</VAST>
