@@ -1,0 +1,37 @@
+<VAST version="4.1">
+  <Ad id="1684175831465">
+    <InLine>
+      <AdSystem><![CDATA[Ogury Admin Adserver]]></AdSystem>
+      <AdServingID><![CDATA[Ogury-597ef44b-d104-4f73-8fc1-90cdeb18d47c]]></AdServingID>
+      <AdTitle><![CDATA[AdTnT_Lamp_Vast_Video_OMID_QAv2]]></AdTitle>
+      <Description><![CDATA[AdTnT_Lamp_Vast_Video_OMID_QAv2]]></Description>
+      <Impression><![CDATA[https://impression.dumb.io/imps]]></Impression>
+      <Creatives>
+        <Creative>
+          <UniversalAdId idRegistry="unknown"><![CDATA[unknown]]></UniversalAdId>
+          <Linear>
+            <Duration><![CDATA[00:00:15]]></Duration>
+            <VideoClicks>
+              <ClickThrough><![CDATA[https://ogury.com]]></ClickThrough>
+            </VideoClicks>
+            <MediaFiles>
+              <MediaFile delivery="progressive" bitrate="720" width="640" height="360" type="video/mp4"><![CDATA[https://medias.presage.io/medias/videos/cbba3963-3089-4c43-a6ae-d18a982b4769.mp4-transcoded/video_360p.mp4]]></MediaFile>
+              <MediaFile delivery="progressive" bitrate="1200" width="854" height="480" type="video/mp4"><![CDATA[https://medias.presage.io/medias/videos/cbba3963-3089-4c43-a6ae-d18a982b4769.mp4-transcoded/video_480p.mp4]]></MediaFile>
+              <MediaFile delivery="progressive" bitrate="2400" width="1080" height="608" type="video/mp4"><![CDATA[https://medias.presage.io/medias/videos/cbba3963-3089-4c43-a6ae-d18a982b4769.mp4-transcoded/video_720p.mp4]]></MediaFile>
+              <MediaFile delivery="progressive" bitrate="5400" width="1080" height="608" type="video/mp4"><![CDATA[https://medias.presage.io/medias/videos/cbba3963-3089-4c43-a6ae-d18a982b4769.mp4-transcoded/video_1080p.mp4]]></MediaFile>
+            </MediaFiles>
+          </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+    <AdVerifications>
+    <Verification vendor="lumen-research.com-omid">
+    <JavaScriptResource apiFramework="OMID" browserOptional="true">
+    <![CDATA[https://cdn.lamp.avct.cloud/omid.js]]>
+    </JavaScriptResource>
+     <VerificationParameters><![CDATA[{"accountId":"6329ba2f3008b67ce40ebaa9","measurementId":"64627a933123b47b34950175","mediaType":"video","requestedApiFramework":"7","lp_format":"[ad_unit_type]_[advert_environment_type]","cp_lineItemId":"[campaignid]","cp_creativeId":"[creative_id]","cp_extSiteId":"[app_bundle]","customModel":"{{device}}Ogury","gdpr":"${GDPR}","gdpr_consent":"${GDPR_CONSENT_63}"}]]>
+     </VerificationParameters>
+    </Verification>
+</AdVerifications>
+  </Ad>
+</VAST>
