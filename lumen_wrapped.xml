@@ -1,0 +1,22 @@
+<VAST version="2.0">
+    <Ad>
+        <Wrapper>
+            <VASTAdTagURI>
+                <![CDATA[https://api.lumen-research.com/v1.0/stimuli_server/6222/vast/https://cdn.jsdelivr.net/gh/Jean-SebK/oguryadcertification@main/vast-4.1-v4.xml]]>
+            </VASTAdTagURI>
+            <Creatives></Creatives>
+            <Extensions></Extensions>
+            <AdVerifications>
+                <Verification vendor="lumen-research.com-omid">
+                    <JavaScriptResource apiFramework="OMID" browserOptional="true">
+                        <![CDATA[https://cdn.lamp.avct.cloud/omid.js]]>
+                    </JavaScriptResource>
+                    <TrackingEvents></TrackingEvents>
+                    <VerificationParameters>
+                        <![CDATA[{"accountId":"6036425e6dda54dde079c2ec","measurementId":"6458c3c26bba56ec7e56be73","mediaType":"video","requestedApiFramework":"7"}]]>
+                    </VerificationParameters>
+                </Verification>
+            </AdVerifications>
+        </Wrapper>
+    </Ad>
+</VAST>
